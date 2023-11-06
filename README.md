@@ -1,5 +1,5 @@
 # https://books.trinket.io/thinkjava/
-# Chapter 1: The Way of the Program
+Chapter 1: The Way of the Program
 Chapter 2: Variables and Operators
 Chapter 3: Input and Output
 Chapter 4: Void Methods
