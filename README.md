@@ -1,4 +1,5 @@
 # https://books.trinket.io/thinkjava/
+# https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources
 Chapter 1: The Way of the Program
 Chapter 2: Variables and Operators
 Chapter 3: Input and Output
